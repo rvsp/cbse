@@ -1,0 +1,5 @@
+Visual Studio Code provides basic support for 
+HTML programming out of the box. There is syntax 
+highlighting, smart completions with IntelliSense,
+and customizable formatting. 
+VS Code also includes great Emmet support.

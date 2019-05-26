@@ -1,0 +1,11 @@
+Write a python script to copy
+a text files source.txt into
+another file target.txt except
+@the lines starting with Simple
+Python scripts can make short 
+work of simple tasks that must
+@be done to The paths we have
+seen so far are simple file
+names, so they are relative
+@to the current directory.
+To find the absolute path to a file, 

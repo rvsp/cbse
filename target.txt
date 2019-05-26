@@ -1,0 +1,8 @@
+Write a python script to copy
+a text files source.txt into
+another file target.txt except
+Python scripts can make short 
+work of simple tasks that must
+seen so far are simple file
+names, so they are relative
+To find the absolute path to a file, 
